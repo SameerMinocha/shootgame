@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shootgame/static/css/main.f5c4e925.chunk.css",
+    "main.js": "/shootgame/static/js/main.b3d37ad2.chunk.js",
+    "main.js.map": "/shootgame/static/js/main.b3d37ad2.chunk.js.map",
+    "runtime-main.js": "/shootgame/static/js/runtime-main.58d7dc8b.js",
+    "runtime-main.js.map": "/shootgame/static/js/runtime-main.58d7dc8b.js.map",
+    "static/js/2.08b7803b.chunk.js": "/shootgame/static/js/2.08b7803b.chunk.js",
+    "static/js/2.08b7803b.chunk.js.map": "/shootgame/static/js/2.08b7803b.chunk.js.map",
+    "static/js/3.58cf7bae.chunk.js": "/shootgame/static/js/3.58cf7bae.chunk.js",
+    "static/js/3.58cf7bae.chunk.js.map": "/shootgame/static/js/3.58cf7bae.chunk.js.map",
+    "index.html": "/shootgame/index.html",
+    "static/css/main.f5c4e925.chunk.css.map": "/shootgame/static/css/main.f5c4e925.chunk.css.map",
+    "static/js/2.08b7803b.chunk.js.LICENSE.txt": "/shootgame/static/js/2.08b7803b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58d7dc8b.js",
+    "static/js/2.08b7803b.chunk.js",
+    "static/css/main.f5c4e925.chunk.css",
+    "static/js/main.b3d37ad2.chunk.js"
+  ]
+}
